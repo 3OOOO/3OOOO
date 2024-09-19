@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm 3OOO</h1>
+<h1 align="center">Hi 👋, I'm ⁦Noir炎⁩
+</h1>
 <h4>- 👽 Developer</h4>
 <h4>- 🔭 I'm currently dedicating myself to gaining more experience</h4>
 <h4>- 🌱 Computer Programmer - PI student</h4>
